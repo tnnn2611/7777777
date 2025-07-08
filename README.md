@@ -31,6 +31,6 @@ SEO说明（供站长参考，不显示在正文）：
 提升用户体验的内容如：多终端支持、免注册、无广告、快速更新；
 
 适合配套结构化页面（如女优页面、番号详情页、观看历史等）增强整体网站权重与跳转深度。
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] ( https://github.com/tnnn2611/7777777 ）</span>
 
 
